@@ -1,0 +1,23 @@
+'abcdefg' 
+1234
+'abcdefg
+88900
+8
+9
+var vm = new Vue({
+	el:'kkyy'
+	data:{
+	name:'xioaming'
+	age:19
+	}
+
+
+
+
+})
+
+(num1, num2)=>{
+	return num1 + num2
+}
+
+ 
