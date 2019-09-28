@@ -1,4 +1,10 @@
 # stu_0928
 
 
-kylin!!!!
+
+print ("hello world")
+
+
+def func():
+    a = 100
+
